@@ -1,0 +1,5 @@
+Final results use two single-branch and three dual-branch networks with a score-level fusion head. The fusion head is trained on 270 validation samples, selected on 150 development samples, and evaluated on a separate 300-sample simulated challenge set (100 per class).
+
+Class accuracy (RD / MD / stacked): bird 64% / 81% / 83%; UAV 70% / 96% / 98%; vehicle 58% / 81% / 88%; overall 64% / 86% / 89.67%.
+
+The stacked system uses more base networks than the single-branch baselines. Earlier development tests had mixed outcomes; the stated numbers apply to the retained challenge set. The MD feature uses the simulated target-range trajectory.

@@ -1,0 +1,5 @@
+class,sample_count,rd_accuracy,md_accuracy,fusion_accuracy
+bird,100,0.64,0.81,0.83
+drone,100,0.7,0.96,0.98
+vehicle,100,0.58,0.81,0.88
+overall,300,0.64,0.86,0.896666666666667

@@ -1,0 +1,2 @@
+variant_id,display_name,accuracy,macro_f1,bird_precision,bird_recall,bird_f1,drone_precision,drone_recall,drone_f1,vehicle_precision,vehicle_recall,vehicle_f1,best_epoch,completed_epochs,training_minutes
+rd_only,RD pooled,0.77037037037037,0.764712242762873,0.710144927536232,0.544444444444444,0.616352201257862,0.923913043478261,0.944444444444444,0.934065934065934,0.678899082568807,0.822222222222222,0.743718592964824,64,84,2.36059940333333

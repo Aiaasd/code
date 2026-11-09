@@ -1,0 +1,2 @@
+test_accuracy,macro_f1,best_validation_accuracy,best_epoch,completed_epochs,training_minutes
+0.944444444444444,0.944130648119469,0.92962962962963,68,88,3.18193988
